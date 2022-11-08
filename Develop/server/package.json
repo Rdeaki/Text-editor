@@ -1,5 +1,5 @@
 {
-    "name": "JATE",
+    "name": "text-editor",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
@@ -15,4 +15,5 @@
     "devDependencies": {
         "nodemon": "^2.0.4"
     }
+
 }
