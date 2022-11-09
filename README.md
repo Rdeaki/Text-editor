@@ -3,7 +3,7 @@
 JATE!
 
 ## Description 
-A simple text editor that runs in your browser. User's can check out the app by clicking on the Heroku link or you can choose to install it yourself.
+A simple text editor that runs in your browser. User's can check out the app by clicking on the [Heroku link](https://banana-planet-app.herokuapp.com/) or you can choose to install it yourself.
 
 ## User Story
 ```
